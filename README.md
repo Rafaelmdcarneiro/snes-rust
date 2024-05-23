@@ -1,12 +1,8 @@
-# Ness
+# SNES Rust
 
 ![Screenshot](screenshot.png)
 
-[![Build and test status](https://github.com/kelpsyberry/ness/actions/workflows/.github/workflows/run-clippy-and-test.yml/badge.svg?branch=main&event=push)](https://github.com/kelpsyberry/ness/actions/workflows/run-clippy-and-test.yml?query=branch%3Amain+event%3Apush)
-
 ## Prebuilt binaries
-
-[![Release build status](https://github.com/kelpsyberry/ness/actions/workflows/.github/workflows/build-release.yml/badge.svg?branch=main&event=push)](https://github.com/kelpsyberry/ness/actions/workflows/build-release.yml?query=branch%3Amain+event%3Apush)
 
 | Release | Debug (includes logging and debugging views) |
 | ------- | -------------------------------------------- |
